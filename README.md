@@ -14,7 +14,7 @@ As a former Graphic Designer, I'll always have a soft spot for design. The space
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="[https://status.nmoo.dev](https://natemoorenowplaying-lhoq7u5lg-naellahervelin-hotmailfr.vercel.app)/now-playing?open"><img src="[https://status.nmoo.dev](https://natemoorenowplaying-lhoq7u5lg-naellahervelin-hotmailfr.vercel.app)/now-playing" width="540" height="64"></a> |
+| <a href="[https://status.nmoo.dev](https://vercel.com/naellahervelin-hotmailfr/natemoorenowplaying/FvLcAxL1NJJcfymgPkuUHGdSHHuT)/now-playing?open"><img src="[https://status.nmoo.dev](https://vercel.com/naellahervelin-hotmailfr/natemoorenowplaying/FvLcAxL1NJJcfymgPkuUHGdSHHuT)/now-playing" width="540" height="64"></a> |
 
 
 <table>
